@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 MEOW
 Change
+=======
+MEOW!!!
+>>>>>>> 568071e (Change file)
