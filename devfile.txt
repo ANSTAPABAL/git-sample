@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 MEOW
 Change
 123
