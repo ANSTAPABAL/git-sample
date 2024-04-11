@@ -1,3 +1,1 @@
-# commit
-
 # git-sample
